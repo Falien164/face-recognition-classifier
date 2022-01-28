@@ -2,7 +2,7 @@
 face recognition classifier with TensorFlow
 
 ### Comparission of two models
-Simple CNN model
+Simple CNN model:
 ```
 [2 1 0 0 2]                     
 [0 5 0 0 0]                     
@@ -10,7 +10,7 @@ Simple CNN model
 [0 1 0 4 0]                     
 [0 0 1 0 4]                     
 ```
-VGG16 model with transfer learning
+VGG16 model with transfer learning:
 ```
 [5 0 0 0 0]
 [0 5 0 0 0]
