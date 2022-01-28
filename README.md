@@ -2,11 +2,11 @@
 face recognition classifier with TensorFlow
 
 ### Comparission of two models
-[2 1 0 0 2]                     [5 0 0 0 0]
-[0 5 0 0 0]                     [0 5 0 0 0]
-[0 0 4 0 1]                     [0 0 5 0 0]
-[0 1 0 4 0]                     [0 0 0 5 0]
-[0 0 1 0 4]                     [1 0 0 0 4]
+- [2 1 0 0 2]                     [5 0 0 0 0]
+- [0 5 0 0 0]                     [0 5 0 0 0]
+- [0 0 4 0 1]                     [0 0 5 0 0]
+- [0 1 0 4 0]                     [0 0 0 5 0]
+- [0 0 1 0 4]                     [1 0 0 0 4]
 
 
 ### results of VGG16 model on LFW dataset
