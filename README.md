@@ -1,6 +1,10 @@
 # face-recognition-classifier
 face recognition classifier with TensorFlow
 
+### How to use
+First dataset should be download and split into training and validation folder. In each folder should be subfolders of classes to classify. Number of subfolders should be the same in both folders. If you want to extract faces from images use Extract_faces.ipynb.
+
+
 ### Comparission of two models
 Simple CNN model:
 ```
